@@ -1,6 +1,6 @@
 # Numerio
 
-**Numerio** bir sayısal analiz uygulamasıdır. Kullanıcı, doğum tarihini sadece rakamlarla (örnek: `20032006`) girer; uygulama tarihi otomatik olarak `20.03.2006` şeklinde biçimlendirir ve **Pin Kodu** hesaplamalarını gerçekleştirir. Ayrıca chakralar, özel kodlar (Bereket Kodu, Zengin/Işık Numarası) ve PDF rapor oluşturma gibi özellikler sunar.
+**Numerio** bir sayısal analiz uygulamasıdır. Kullanıcı, doğum tarihini girer; uygulama **Pin Kodu** hesaplamalarını gerçekleştirir. Ayrıca chakralar, özel kodlar (Bereket Kodu, Zengin/Işık Numarası) ve PDF rapor oluşturma gibi özellikler sunar.
 
 ---
 
